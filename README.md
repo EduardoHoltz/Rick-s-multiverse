@@ -1,24 +1,27 @@
-Rick and Morty Universe Explorer
+"Rick and Morty Universe Explorer" - English Translation
 
-Rick and Morty Universe Explorer é uma aplicação web desenvolvida em Vue.js que permite que os fãs da popular série animada "Rick and Morty" explorem informações detalhadas sobre os personagens da série. O objetivo principal desta aplicação é proporcionar uma plataforma fácil de usar para descobrir detalhes intrigantes sobre cada personagem, incluindo seus nomes, status, espécie e imagens ilustrativas.
+Rick and Morty Universe Explorer is a web application developed in Vue.js that allows fans of the popular animated series "Rick and Morty" to explore detailed information about the characters from the series. The main objective of this application is to provide an easy-to-use platform for discovering intriguing details about each character, including their names, status, species, and illustrative images.
 
-Recursos
-Navegue por uma extensa lista de personagens da série "Rick and Morty".
-Saiba mais sobre cada personagem, incluindo seu nome, status e espécie.
-Visualize ilustrações dos personagens para uma experiência mais imersiva.
-Layout responsivo para uma experiência de usuário consistente em dispositivos móveis e desktops.
-Tecnologias Utilizadas
-Vue.js: Framework JavaScript progressivo para construir interfaces de usuário interativas.
-Bootstrap: Biblioteca CSS para criação de layouts e componentes responsivos.
-Animate.css: Biblioteca de animações CSS para adicionar efeitos visuais atraentes.
-API "Rick and Morty": Consumo da API pública para obter informações dos personagens.
-Como Executar o Projeto
-Clone este repositório: git clone https://github.com/seu_usuario/rick-and-morty-universe-explorer.git
-Instale as dependências: npm install
-Execute a aplicação em modo de desenvolvimento: npm run dev
-Acesse a aplicação em: http://localhost:5173/
-Contribuição
-Contribuições são bem-vindas! Se você encontrar algum bug, tiver sugestões de melhorias ou quiser adicionar novos recursos, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+Features:
 
-Licença
-Este projeto está licenciado sob a MIT License.
+Browse through an extensive list of characters from the "Rick and Morty" series.
+Learn more about each character, including their name, status, and species.
+View character illustrations for a more immersive experience.
+Responsive layout for a consistent user experience on mobile devices and desktops.
+Technologies Used:
+
+Vue.js: Progressive JavaScript framework for building interactive user interfaces.
+Bootstrap: CSS library for creating responsive layouts and components.
+Animate.css: CSS animation library for adding attractive visual effects.
+"Rick and Morty" API: Consumption of the public API to retrieve character information.
+How to Run the Project:
+
+Clone this repository: git clone https://github.com/your_username/rick-and-morty-universe-explorer.git
+Install dependencies: npm install
+Run the application in development mode: npm run dev
+Access the application at: http://localhost:5173/
+Contribution:
+Contributions are welcome! If you find any bugs, have suggestions for improvements, or want to add new features, feel free to open an issue or submit a pull request.
+
+License:
+This project is licensed under the MIT License.
