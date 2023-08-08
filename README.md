@@ -16,7 +16,7 @@ Como Executar o Projeto
 Clone este repositório: git clone https://github.com/seu_usuario/rick-and-morty-universe-explorer.git
 Instale as dependências: npm install
 Execute a aplicação em modo de desenvolvimento: npm run dev
-Acesse a aplicação em: http://localhost:3000
+Acesse a aplicação em: http://localhost:5173/
 Contribuição
 Contribuições são bem-vindas! Se você encontrar algum bug, tiver sugestões de melhorias ou quiser adicionar novos recursos, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
